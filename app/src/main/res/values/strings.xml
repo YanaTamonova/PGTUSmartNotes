@@ -1,0 +1,17 @@
+<resources>
+    <string name="appName">Smart Notes</string>
+    <string name="newNote">New note</string>
+    <string name="changeNote">Change note</string>
+<!--    -->
+    <string name="avatar">Avatar</string>
+    <string name="checkItem">Complete</string>
+    <string name="listItem">description</string>
+    <string name="addButton">Add notes</string>
+    <string name="editButton">Edit</string>
+    <string name="delButton">Del</string>
+    <string name="action_ClearDB">ClearDB</string>
+    <string name="action_Exit">Exit</string>
+
+    <string name="noteHeader">Title</string>
+    <string name="noteDescription">Description</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolBarColor">#0090FF</color>
+    <color name="listViewColor">#7CB2DC</color>
+    <color name="colorPrimary">#00574B</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorMy">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorAdapterItem">#0090FF</color>
+</resources>
